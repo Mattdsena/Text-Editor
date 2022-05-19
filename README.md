@@ -2,7 +2,7 @@
 
   # Text Editor (PWA)
 
-  Link to deployed application => https://git.heroku.com/boiling-refuge-29727.git
+  Link to deployed application => https://boiling-refuge-29727.herokuapp.com/
 
   ## Table of Contents
 - [Description](#description)
