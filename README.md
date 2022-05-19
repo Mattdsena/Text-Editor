@@ -2,7 +2,7 @@
 
   # Text Editor (PWA)
 
-  Link to deployed application => https://powerful-sierra-62510.herokuapp.com/
+  Link to deployed application => https://git.heroku.com/boiling-refuge-29727.git
 
   ## Table of Contents
 - [Description](#description)
@@ -45,5 +45,5 @@
 
   Email: matthewdsena@gmail.com
 
-https://git.heroku.com/boiling-refuge-29727.git
+
 
